@@ -1,5 +1,5 @@
 ### Welcome! My name is Zakaria Arshad 👋
-### I am a Computer Science, Data Science, and Philosophy student at New York University 💜
+### I am a Computer Science student at New York University 💜
 
 <!--
 **Zakaria-Arshad/Zakaria-Arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
